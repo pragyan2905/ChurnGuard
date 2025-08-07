@@ -1,4 +1,4 @@
-# ChurnGuard: ANN-Powered Customer Churn Prediction System 🤖
+# ChurnGuard: ANN-Powered Churn Prediction System 🤖
 
 ## 1. 📝 Project Overview
 
